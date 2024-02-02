@@ -1,11 +1,3 @@
-#####################################################################
-# group members: SARUN SHRESTHA, YECHAN KIM, AARON LARSON, SANDIP THAPA.
-# date: FEBRUARY 1, 2024.
-# description: SPIDER SHOOTING GAME WITH BULLETS USING WIZARD
-# References: https://realpython.com/pygame-a-primer/#using-blit-and-flip
-# chat.openai.com for sound and allocation help.
-#####################################################################
-
 # Import all required libraries
 import pygame
 import random
